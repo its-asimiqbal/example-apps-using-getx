@@ -1,4 +1,4 @@
-# mark_favourite
+# Example Apps Using Getx State Management
 
 A new Flutter project.
 
